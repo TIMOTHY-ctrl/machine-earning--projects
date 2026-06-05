@@ -1,4 +1,4 @@
-#Mobile Money Loan Eligibility and Loan Amount Prediction#
+**Mobile Money Loan Eligibility and Loan Amount Prediction**
 Hybrid Machine Learning Project: Supervised and Unsupervised Learning
 Project Theme
 This notebook develops a machine learning system that predicts:
